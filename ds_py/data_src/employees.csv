@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,department_id,salary,hire_date,city,performance_score
+1,John,Doe,10,60000,2020-01-15,New York,85
+2,Jane,Smith,20,75000,2020-02-20,Los Angeles,92
+3,Mike,Johnson,10,65000,2020-03-10,Chicago,78
+4,Emily,Brown,30,80000,2020-04-05,Houston,95
+5,David,Davis,40,,2020-05-12,Phoenix,88
+6,Laura,Wilson,20,72000,2020-06-18,Philadelphia,90
+7,Robert,Moore,30,85000,2020-07-22,San Antonio,79
+8,Sophia,Taylor,10,62000,2020-08-30,Dallas,91
+9,James,Anderson,40,58000,2020-09-25,San Jose,72
+10,Olivia,Thomas,20,78000,2020-10-15,Austin,96
+11,William,Jackson,10,61000,2021-01-10,Seattle,83
+12,Emma,White,30,82000,2021-02-15,Denver,89
+13,Michael,Harris,20,74000,2021-03-20,Miami,87
+14,Ava,Martin,10,63000,2021-04-25,Atlanta,80
+15,Daniel,Thompson,40,56000,2021-05-30,Boston,75
+16,Isabella,Garcia,30,,2021-06-15,Portland,93
+17,Matthew,Martinez,10,64000,2021-07-20,Las Vegas,81
+18,Charlotte,Robinson,20,76000,2021-08-25,Orlando,94
+19,Joseph,Clark,30,83000,2021-09-30,Detroit,86
+20,John,Doe,10,60000,2022-01-15,New York,85
